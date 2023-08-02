@@ -13,7 +13,7 @@ body {
     width: 100%;
     padding-top: 150px;
     padding-bottom: 150px;
-    background-color: #89d0f9;
+    background-color: hwb(229 6% 26%);
     font-display: #fff;
     font-size: 40px;
     color: #fff;
@@ -27,7 +27,7 @@ body {
 }
 
 .block {
-    background-color: pink;
+    background-color: rgb(244, 126, 226);
     width: 100px;
     height: 100px;
     display: flex;
